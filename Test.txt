@@ -1,1 +1,8 @@
-welcome back
+Deploy AWS Lambda Functions using Jenkins | Devops Junction
+
+
+Step 1: Ensuring Git installation
+Step 2: Install Jenkins-Lambda plugin
+Step 3: Create and Configure Source Code Management (Git)
+Step 4: Configure Lambda Deployment
+Build and Validate
